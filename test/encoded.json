@@ -1,0 +1,3 @@
+{
+    "data": "@startuml\nA -> B : Hello\n@enduml"
+}

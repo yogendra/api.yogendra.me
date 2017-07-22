@@ -1,0 +1,4 @@
+{
+    "data": "@startuml\nA -> B : Hello\n@enduml",
+    "output": "html"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "plantuml-json-api",
+  "version": "1.0.0",
+  "description": "PlanUML encoder - Generates encoded text for using on plantuml.com/plantuml service",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^5.0.1",
+    "firebase-functions": "^0.6.0",
+    "plantuml-encoder": "^1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogendra/plantuml-encoder.git"
+  },
+  "keywords": [
+    "firebase",
+    "functions",
+    "plantuml",
+    "encoder",
+    "uml",
+    "diagram"
+  ],
+  "author": "Yogendra Rampuria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yogendra/plantuml-encoder/issues"
+  },
+  "homepage": "https://github.com/yogendra/plantuml-encoder#readme"
+}
